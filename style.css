@@ -1,0 +1,31 @@
+body {
+    background-color: #42f5b9;
+}
+
+h1 {
+    background-color: #d442f5;
+}
+
+#show_sketch {
+    float: right;
+    margin-top: 5px;
+    margin-right: 10px;
+}
+
+#score {
+    font-size: 25px;
+    float: left;
+    font-style: italic;
+}
+
+#timer {
+    font-size: 25px;
+    float: right;
+    margin-right: 50px;
+    font-style: italic;
+}
+
+#your_sketch, #confidence, #sketch_to_be_drawn { 
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
